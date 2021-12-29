@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Alice Bighetti (吳恩達)
+title: Papadzul Porras
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: 数据科学家
+role: MATHEMATICS TEACHER
 
 # Status emoji
 status:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: A full pledge mathematics Teacher. Instructional Designer, Researcher, Statistician.
 
 #interests:
 #- Artificial Intelligence
